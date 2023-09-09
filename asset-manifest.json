@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/my-app/static/css/main.b904b2c8.css",
+    "main.js": "/my-app/static/js/main.23494f92.js",
+    "static/media/java.jpg": "/my-app/static/media/java.c2d5279c4434b0574ab3.jpg",
+    "static/media/two.jpg": "/my-app/static/media/two.006b42f921dcb47e1e90.jpg",
+    "static/media/six.jpg": "/my-app/static/media/six.53e91206442d0b25232f.jpg",
+    "static/media/three.jpg": "/my-app/static/media/three.4adb5a449929f43303dc.jpg",
+    "static/media/five.jpg": "/my-app/static/media/five.70af6fb402eba483e531.jpg",
+    "static/media/eig.jpg": "/my-app/static/media/eig.7af7fda25880b7411d95.jpg",
+    "static/media/one.jpg": "/my-app/static/media/one.5cd282d3beb924005037.jpg",
+    "static/media/four.jpg": "/my-app/static/media/four.9f6b6f59af6286124382.jpg",
+    "static/media/bg_img.jpeg": "/my-app/static/media/bg_img.421622bf3bd4e0e9fc1b.jpeg",
+    "index.html": "/my-app/index.html",
+    "main.b904b2c8.css.map": "/my-app/static/css/main.b904b2c8.css.map",
+    "main.23494f92.js.map": "/my-app/static/js/main.23494f92.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b904b2c8.css",
+    "static/js/main.23494f92.js"
+  ]
+}
