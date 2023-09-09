@@ -35,7 +35,7 @@ const ProjectCardData = [
         text:"App consists of 5 bottom navigation Buttons in which Students can apply for the Events, Internships, Influencers. It consists of Paytm Payment Gateway, Notification Panel, Chat-Bot. Users can see/update their profile.User can avail Internships in easiest way.",
         view:"https://github.com/RitikWorkOld/SocialDukan"
     },
-    {
+    { 
         imgsrc: six,
         title:"Social Dukan Admin",
         text:"The work can be described as it has 2 functions, Admin and Employer.In this application, Employers register on the app and the admin's role is to Post Events, Accept or Reject the profiles, Internships, Influencers which will show in Student's App.",

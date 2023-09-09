@@ -1,13 +1,11 @@
 import "./HeroImgStyle.css";
 import React from 'react'
-import Bg_img from "../assets/bg_img.jpeg"
 import { Link } from "react-router-dom";
 const Heroimg = () => {
   return (
     <div className="hero">
       <div className="mask">
-    <img className=""
-    src={Bg_img} alt="bg_img"/>
+   
 
       </div>
       <div className="content">

@@ -17,3 +17,14 @@ form input,form textarea{
     border-color: rgba(255, 355, 355, 0.1);
     color: #f4f4f4;
 }
+.error {
+    color: #ff0000;
+    text-align: center; /* Center the error message */
+    margin-top: 1rem; /* Add some space above the error message */
+  }
+  
+  .success {
+    color: #00ff00;
+    text-align: center; /* Center the success message */
+  margin-top: 1rem; /* Add some space above the success message */
+  }
