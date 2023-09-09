@@ -47,21 +47,30 @@ Join me on this journey where each line of code represents a brushstroke on the 
 Please feel free to get in touch; I'm excited to meet new people and widen my circle.</p>
 
                 <div className="Social">
-                <FaFacebook size={30} style={
+                    <a href={"https://www.facebook.com"} target="_blank" rel="noopener noreferrer">
+                    <FaFacebook  size={30} style={
                     {
                         color:"#fff",marginRight:"1rem"
                     }
                 } />
-                 <FaGithub size={30} style={
+
+                    </a>
+               
+                    <a href={"https://github.com/Ritik-rik"} target="_blank" rel="noopener noreferrer">
+                    <FaGithub  size={30} style={
                     {
                         color:"#fff",marginRight:"1rem"
                     }
                 } />
-                 <FaLinkedin size={30} style={
+
+                    </a> <a href={"https://www.linkedin.com/in/-ritikmehta-"} target="_blank" rel="noopener noreferrer">
+                    <FaLinkedin  size={30} style={
                     {
                         color:"#fff",marginRight:"1rem"
                     }
                 } />
+
+                    </a>
                 </div>
 
             </div>
